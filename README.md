@@ -1,2 +1,3 @@
 # Python
-Contains all python codes from day 1 of learning
+Will upload all my python codes here. 
+1. main.py- A simple rock, paper, scissors game
